@@ -12,6 +12,6 @@ Following tasks are performed in this project -
 
 ![Image of Photo](https://github.com/KrishangiKashyap/MH-MCMC_Algorithm/blob/main/Burn%20in.png?width=30&height=3)
 ![Image of Photo](https://github.com/KrishangiKashyap/MH-MCMC_Algorithm/blob/main/hist%20h.png?width=30&height=3)
-
+![Image of Photo](https://github.com/KrishangiKashyap/MH-MCMC_Algorithm/blob/main/hist%20omega%20matter.png?width=30&height=3)
 
    
