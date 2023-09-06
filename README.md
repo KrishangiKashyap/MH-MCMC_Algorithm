@@ -14,5 +14,6 @@ Following tasks are performed in this project -
 ![Image of Photo](https://github.com/KrishangiKashyap/MH-MCMC_Algorithm/blob/main/hist%20h.png?width=30&height=3)
 ![Image of Photo](https://github.com/KrishangiKashyap/MH-MCMC_Algorithm/blob/main/hist%20omega%20matter.png?width=30&height=3)
 ![Image of Photo](https://github.com/KrishangiKashyap/MH-MCMC_Algorithm/blob/main/Comparision.png?width=30&height=3)
+![Image of Photo](https://github.com/KrishangiKashyap/MH-MCMC_Algorithm/blob/main/random%20walker.png?width=30&height=3)
 
    
