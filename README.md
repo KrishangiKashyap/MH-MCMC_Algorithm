@@ -10,6 +10,6 @@ Following tasks are performed in this project -
 
      A few example images are shown below,
 
-![Image of Photo](https://github.com/KrishangiKashyap/MH-MCMC_Algorithm/blob/main/Burn%20in.png?width=60&height=25)
+![Image of Photo](https://github.com/KrishangiKashyap/MH-MCMC_Algorithm/blob/main/Burn%20in.png?width=50&height=15)
 
    
